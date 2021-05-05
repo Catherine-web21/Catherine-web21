@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Catherine-web21
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning computer programming at college in Canada
+- 🌱 I’m currently learning computer programming at college and via Udemy online platform in Canada
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-Catherine-web21/Catherine-web21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+When I watched one web developer Bootcamp project demo through Udemy, I feel like making a basic but pinkish Unicorn Cake home page to practice the coding. 
+Thanks to my favorite teacher Colt Steele (Developer and Bootcamp Instructor), I can make my pinkish web page.:)
 --->
