@@ -1,0 +1,69 @@
+body{
+    background-color:rgb(243, 200, 207);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.blurb h2{
+    color:magenta;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.blurb p{
+    color:tomato;
+    font-size: 1rem;
+    font-weight: 100;
+    line-height: 1.5;
+}
+.content{
+    margin: 100px;
+    margin-bottom: 100px;;
+}
+.navbar-toggler{
+    background-color: mediumblue;
+}
+
+#mainBar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+#mainBar .navbar-brand{
+    color:rebeccapurple;
+    font-size: 1.5rem;
+    font-weight: 100;
+   
+}
+#mainBar .nav-link{
+    color:linen;
+    
+}
+#mainBar .nav-link:hover{
+    color: red;
+    
+}
+#heading h1{
+    color:magenta;
+    font-weight: 100;
+    font-size: 4rem;
+}
+#heading span{
+    color:white;
+
+}
+.navbar.scrolled {
+    background:maroon;
+    transition: background 500ms;
+}
+@media (max-width: 1200px){
+    #heading h1{
+        font-size: 3rem;
+        font-weight: 100;
+    }
+    .blurb h2{
+        font-size: 2rem;
+    }
+}
+#icon{
+    width: 50%;
+    height: 50%;
+}
